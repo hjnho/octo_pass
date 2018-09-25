@@ -4,6 +4,7 @@ public class Mainclass {
 		System.out.println("Hello world!");
 		
 		student stu = new student();
+		student2 stu2 = new student2();
 		
 	}
 }
